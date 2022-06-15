@@ -1,0 +1,695 @@
+@font-face {
+    font-family: "Changeling Neo W01 Bold";
+    src: url(../font/Changeling-Neo-W01-Bold.woff);
+    src: url(../font/Changeling-Neo-W01-Bold.woff2);
+}
+
+@font-face {
+    font-family: "Circular Std Book";
+    src: url(../font/Circular-Std-Book.woff);
+    src: url(../font/Circular-Std-Book.woff2);
+}
+
+@font-face {
+    font-family: "Chapaza Regular";
+    src: url(../font/Chapaza-Regular.woff);
+    src: url(../font/Chapaza-Regular.woff2);
+}
+
+@font-face {
+    font-family: "Gotham";
+    src: url(../font/Gotham.woff);
+    src: url(../font/Gotham.woff2);
+}
+
+@media (min-width: 1400px) {
+
+    .container,
+    .container-lg, .container-md, .container-sm,
+    .container-xl, .container-xxl {
+        max-width: 1460px;
+    }
+}
+
+#section1 {
+    background-image: url('../img/back1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+    padding: 80px 0 0 0;
+
+}
+
+#section1 p {
+    font-size: 20px;
+    font-family: 'Circular std Book';
+    text-align: center;
+        position: relative;
+    top: 150px;
+}
+
+.story-excellence {
+    color: #be9b2f;
+    margin-bottom: 30px;
+    font-family: 'Chapaza Regular';
+    text-align: center;
+}
+
+.fm-logo {
+    width: 800px;
+    margin-top: 70px;
+}
+
+.iso-logo img {
+    width: 290px;
+    position: relative;
+    top: 200px;
+}
+.map-img {
+    position: relative;
+    top: 70px;
+}
+    
+.full-width{
+    width: 100%;
+}
+
+/* section2 */
+#section2 {
+    background-image: url('../img/back2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0px;
+}
+
+.our-history {
+    font-weight: bolder;
+    font-size: 72px;
+    letter-spacing: 10px;
+    color: #fff;
+    font-family: 'Chapaza Regular';
+}
+
+.our-mission {
+    font-size: 72px;
+    letter-spacing: 10px;
+    color: #fff;
+    font-family: 'Chapaza Regular';
+
+}
+
+.our-visions {
+    font-size: 72px;
+    color: #fff;
+    letter-spacing: 10px;
+    font-family: 'Chapaza Regular';
+
+}
+
+#section2 p {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+
+#section2 .col-lg-6 {
+    padding-right: 40px;
+}
+
+#section2 img {
+    width: 800px;
+}
+
+/* Section3 */
+#section3 {
+    background-image: url('../img/back2.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 0px;
+}
+
+.group-comp {
+    font-family: 'Chapaza Regular';
+    font-size: 72px;
+    letter-spacing: 10px;
+    color: #fff;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#section3 .sub-heading {
+    color: #fff;
+    font-family: 'Circular std Black Italic';
+    text-align: center;
+    font-weight: bold;
+    margin: 30px;
+}
+
+#section3 p {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+
+#section3 .card {
+    align-items: center;
+}
+
+#section3 .card img {
+    width: 250px;
+}
+
+#section3 .card img.fasial-mover-h {
+    height: 300px;
+
+}
+
+.arrow-img {
+    position: relative;
+    left: 95%;
+    margin-left: auto;
+    width: 160px;
+    bottom: -30px;
+    text-align: center;
+    align-items: end;
+}
+
+/* Section 4 */
+
+#section4 {
+    background-image: url('../img/back4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0px 0px;
+}
+
+#section4 .faisal-mover-heading {
+    font-family: 'Changeling Neo W01 Bold';
+    font-size: 96px;
+    letter-spacing: 10px;
+    color: #fff;
+    font-weight: bolder;
+}
+
+#section4 .faisal-mover-sub-heading {
+    font-family: 'Changeling Neo W01 Bold';
+    font-size: 50px;
+    letter-spacing: 10px;
+    color: #fff;
+    font-weight: bold;
+}
+
+#section4 .company-heading {
+    color: white;
+}
+
+#section4 p {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+.fm2-img{
+    width: 100%;
+}
+/* Section 5 */
+
+#section5 {
+    background-image: url('../img/TScprof.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 150px 0px;
+}
+
+#section5 h2 {
+    font-family: 'Gotham';
+    font-size: 40px;
+    letter-spacing: 10px;
+    color: #fff;
+    font-weight: bold;
+}
+
+#section5 p {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+
+/* section 6 */
+
+#section6 {
+    background-image: url('../img/back6.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section6 .company-heading {
+    font-family: 'Chapaza Regular';
+    font-size: 60px;
+    color: #333399;
+}
+
+#section6 p {
+    color: #333399;
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+
+#section6 .col-lg-11.bg-white {
+    padding: 0px 10px 120px 100px;
+}
+
+.conatiner-img {
+    position: relative;
+    bottom: 120px;
+}
+
+/* .section6-1 {
+    padding: 10px 100px;
+} */
+#section6 .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* section 7 */
+
+#section7 {
+    background-image: url('../img/back6.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.sect7-1 {
+    padding: 30px 80px 0px;
+}
+
+#section7 .client-ind {
+    font-family: 'Chapaza Regular';
+    font-size: 60px;
+    color: #fff;
+    font-weight: bolder;
+    text-align: center;
+}
+
+#section7 .tir {
+    font-family: 'Chapaza Regular';
+    font-size: 50px;
+    color: #fff;
+}
+
+#section7 .sub-heading1 {
+    margin-top: 10px;
+    font-size: 20px;
+    font-family: 'Chapaza Regular';
+    color: #333399;
+}
+
+#section7 p {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Circularstd Book';
+}
+
+.tir-section {
+    background-image: url('../img/tir-back.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 100px;
+}
+
+#section7 .container-fluid {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* Section 8 */
+
+#section8 {}
+
+#section8 .company-heading {
+    font-family: 'Gutham';
+    font-size: 60px;
+    color: #fff;
+}
+
+.bg-blue {
+    background-color: #000099;
+}
+
+#section8 p {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+
+#section8 .col-lg-11.bg-blue {
+    padding: 30px 10px 120px 100px;
+}
+
+.conatiner-img {
+    position: relative;
+    bottom: 120px;
+}
+
+.section8-1 {
+    padding: 10px 100px;
+}
+.img-33 {
+    position: relative;
+    top: -70px;
+}
+
+
+/* section 9 */
+
+
+#section9 .sec9-up {
+    padding: 30px 100px;
+}
+
+#section9 p {
+    font-size: 20px;
+    color: #000099;
+    font-family: 'Circular std Book';
+}
+
+#section9 .sub-heading {
+    color: #000099;
+}
+
+.major-city {
+    padding: 60px 36px;
+}
+
+/* Section 10 */
+
+#section10 {
+    background-image: url('../img/back10.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px 0px;
+}
+
+#section10 h1 {
+    margin-top: 10px;
+    font-size: 72px;
+    font-family: 'Gotham';
+    color: #fff;
+}
+
+#section10 p {
+    font-size: 20px;
+    color: #fff;
+    font-family: 'Circular std Book';
+}
+
+/* Section 10 */
+
+#section11 {
+}
+
+/* Section 10 */
+
+#section12 {
+    background-image: url('../img/back12.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#section12 .online-book {
+    padding: 100px 0px;
+}
+
+#section12 .sub-heading {
+    color: #fff;
+}
+
+#section12 p {
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+
+/* Section 13 */
+
+#section13 {
+    background-image: url('../img/back12.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0px 20px 100px;
+
+}
+
+.network {
+    padding: 20px 20px 20px 20px;
+}
+
+.Network-support {
+    font-family: 'Chapaza Regular';
+    font-size: 60px;
+}
+
+#section13 p {
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+
+.small-heading {
+    font-family: 'Chapaza Regular';
+    font-size: 18px;
+}
+
+#section13 p.small-para {
+    font-size: 14px !important;
+    color: #000;
+    font-family: 'Circular std Book';
+}
+#section13 .btn-app {
+    padding: 0;
+    border: none;
+    margin-left: 10px;
+}
+
+.strengths-heading {
+    background-color: #ff9933;
+    width: 200px;
+    margin-top: 40px;
+    position: absolute;
+    padding: 20px;
+}
+
+.strengths-heading h1 {
+    font-family: 'Chapaza Regular';
+    font-weight: bolder;
+    color: white;
+}
+
+/* Section 14 */
+
+#section14 {
+    background-image: url('../img/back1.jpg');
+    background-repeat: no-repeat;
+    padding: 50px 0 0 0;
+    background-size: cover;
+
+}
+
+#section14 .story-excellence {
+    color: #be9b2f;
+    margin-bottom: 30px;
+}
+
+.fm {
+    width: 500px;
+    margin-bottom: 350px;
+}
+
+#section14 p {
+    font-size: 20px;
+    font-family: 'Circular std Book';
+}
+#section14 p.distinction-para {
+    margin-top: 300px;
+}
+
+.sect14-img3 {
+    margin: 50px auto;
+}
+
+#section1 .row,
+#section2 .row,
+#section4 .row,
+#section5 .row,
+#section6 .row,
+#section8 .row,
+#section9 .row,
+#section10 .row,
+#section11 .row,
+#section12 .row,
+#section13 .row,
+#section14 .row {
+    --bs-gutter-x: 0;
+}
+#section3 .card {
+    align-items: center;
+    margin-top: 20px;
+}
+@media (max-width: 768px) {
+
+    #section2,
+    #section3,
+    #section5,
+    #section12 .online-book,
+    #section13 {
+        padding: 30px 50px;
+    }
+    #section5,
+    #section12 .online-book,
+    #section13 {
+        padding: 30px 0px;
+    }
+
+    #section6 .col-lg-11.bg-white {
+        padding: 0px 10px 120px 50px;
+    }
+
+    #section6 .col-lg-11.bg-white img {
+        width: 300px;
+    }
+
+    .sect7-1 {
+        padding: 30px 50px 0px;
+    }
+
+    .sec9-up .img1 {}
+
+    #section8 .img2 {
+        width: 300px;
+    }
+
+    .major-city {
+        padding: 0px 12px;
+    }
+
+    .arrow-img {
+        position: relative;
+        left: 60%;
+    }
+
+    .section6-1 {
+        padding: 10px 50px;
+    }
+
+    #section9 .sec9-up {
+        padding: 30px 50px;
+    }
+    #section3 .card img.fasial-mover-h {
+        height: 170px;
+    }
+    #section4 .faisal-mover-heading {
+        font-size: 50px;
+    }
+    #section4 .faisal-mover-sub-heading {
+        font-size: 25px;
+    }
+    #section8 .col-lg-11.bg-blue {
+        padding: 30px 10px 120px 50px;
+    }    
+    #section9 .sub-heading {
+        font-size: 16px;
+        font-weight: 700;
+    }
+    #section2 p, 
+    #section3 p,
+    #section4 p,
+    #section5 p,
+    #section6 p,
+    #section8 p,
+    #section9 p,
+    #section10 p,
+    #section12 p,
+    #section13 p,
+    #section14 p
+    {
+        font-size: 16px;
+    }
+    #section7 .sub-heading1 {
+        font-size: 16px;
+    }
+    .Network-support,
+    #section10 h1,
+    .our-visions,
+    .our-mission,
+    .group-comp,
+    .our-history {
+        font-weight: bolder;
+        font-size: 50px
+    }
+    #section5 h2 {
+        font-size: 30px;
+    }
+    #section6 .company-heading {
+        font-size: 45px;
+    }
+    #section7 .client-ind {
+        font-size: 50px;
+    }
+    #section8 .company-heading {
+        font-size: 50px;
+    }
+    #section14 p.distinction-para {
+        margin-top: 0;
+    }
+}
+
+@media (max-width: 600px) {
+    .fm {
+        width: 300px;
+    }
+    #section12 img.m-5 {
+        width: 230px;
+    }
+    #section2, #section3, #section5, #section12 .online-book, #section13 {
+        padding: 30px 0px;
+    }
+     .col-xs-2  {
+        width: 25%;
+     }   
+     .col-xs-10  {
+        width: 75%;
+     }
+     #section6 .col-lg-11.bg-white {
+        padding: 0px 10px 120px 10px;
+    }
+    #section3 .card {
+        align-items: center;
+        margin-top: 15px;
+    }   
+    .section6-1 {
+        padding: 10px 10px;
+    }
+    #section7 .client-ind {
+        font-size: 30px;
+    }
+    .strengths-heading {
+        background-color: #ff9933;
+        width: 95px;
+        padding: 5px;
+        margin-top: 10px;
+    }
+    .strengths-heading h1 {
+        font-size: 16px;
+    }
+}
